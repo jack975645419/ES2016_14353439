@@ -1,6 +1,9 @@
 DOL框架描述说明  
 ==
 
+邹文杰（学号14353439） 13763361932 zouwj5@mail2.sysu.edu.cn
+---
+
 &nbsp; &nbsp; &nbsp; &nbsp; （以下内容描述于2016-10-1）  
 &nbsp; &nbsp; &nbsp; &nbsp; DOL也称为Distributed Operation Layer，是一个软件开发框架，用以特化基于Kahn程序网络计算模型的应用仿真软件（就目前所学尚不清楚这是什么），其引擎源于SystemC，DOL提供了基于xml文件的规格格式去描述其实现的多线程系统的可行性与效率分析。  
 &nbsp; &nbsp; &nbsp; &nbsp; 目前的框架是这样的：“应用规格”（基于XML 或者是C）经过“功能仿真生成”进行基于工作站的仿真，利用数据抽象与校正提取进行反馈修复，使得该应用规格得以调整得更好。  
